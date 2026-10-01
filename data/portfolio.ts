@@ -5,7 +5,7 @@ export const personal = {
   name: "Shivam Suryawanshi",
   role: "Electrical Engineering Student",
   location: "Yavatmal, Maharashtra, India",
-  profileImage: "/images/profile.jpg", // Replace with your image in public/images/
+  profileImage: "/profile.png", // Replace with your image in public/images/
 };
 
 // 2. Hero Section
